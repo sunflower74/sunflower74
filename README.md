@@ -1,5 +1,5 @@
 ### Hi everyone and welcome! 👋
- My name is Alena and I am a QA engineer🪲🔍
+ My name is Alena and I am a Junior QA engineer🪲🔍
 
 💻 I have completed several courses and gained some hands-on testing experience in a pet project.
 
